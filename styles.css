@@ -1,0 +1,19 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+#playBtn {
+    position: absolute;
+    left: 50%;
+    bottom: 1em;
+    transform: translate(-50%, 0);
+}
+
+#tickBtn {
+    position: absolute;
+    left: 50%;
+    bottom: 1em;
+    transform: translate(50%, 0);
+}
